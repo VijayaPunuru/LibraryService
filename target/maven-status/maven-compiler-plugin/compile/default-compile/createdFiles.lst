@@ -1,0 +1,6 @@
+com/cis/batch33/library/service/MemberService.class
+com/cis/batch33/library/controller/MemberController.class
+com/cis/batch33/library/entity/LibraryMember.class
+com/cis/batch33/library/LibraryServiceApplication.class
+com/cis/batch33/library/repository/LIbraryMemberRepository.class
+com/cis/batch33/library/model/Member.class
